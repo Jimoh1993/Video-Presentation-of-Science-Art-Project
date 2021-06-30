@@ -1,4 +1,4 @@
-# Video-Presentation-of-Intercultural Science-Art Project ‘Magritte Meets Science’
+# Intercultural Science-Art Project ‘Magritte Meets Science’
 https://www.youtube.com/watch?v=Txebg4_FfT0 
 
 # The Idea
