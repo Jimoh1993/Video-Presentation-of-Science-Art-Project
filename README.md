@@ -1,7 +1,7 @@
 # Intercultural Science-Art Project ‘Magritte Meets Science’
 
 # Video Presenatation 
-[![image](![image](https://user-images.githubusercontent.com/29201579/123956570-bf290d00-d9a2-11eb-8c2c-1f2a22ab37d7.png)](https://youtu.be/Txebg4_FfT0)
+(![image](https://user-images.githubusercontent.com/29201579/123956570-bf290d00-d9a2-11eb-8c2c-1f2a22ab37d7.png)](https://youtu.be/Txebg4_FfT0)
 
 # The Idea
 Once the 200 Young Researchers who would participate in the 7th Heidelberg Laureate Forum (HLF) were already chosen, they were all invited to participate to an Intercultural Science-Art Project entitled ‘Magritte Meets Science’, in which they would have to create their own artworks inspired by their scientific research and the art by René Magritte.
